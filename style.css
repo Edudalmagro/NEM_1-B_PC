@@ -17,3 +17,8 @@ p {
 em strong {
     color:cyan;
 }
+
+
+.itens {
+    font-style: italic;
+}

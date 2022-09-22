@@ -3,7 +3,8 @@ body {
 }
 
 .principal{
-    background: #cccccc
+    background: #cccccc;
+    padding: 30px;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
 }
 
 p {
-    text-align:center
+    text-align:center;
 }
 
 #missao {

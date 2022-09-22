@@ -1,4 +1,8 @@
 body {
+    
+}
+
+.principal{
     background: #cccccc
 }
 
@@ -25,4 +29,8 @@ em strong {
 
 .beneficios{
     background-color: white;
+}
+
+h2{
+    text-align: center;
 }
